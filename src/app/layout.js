@@ -1,4 +1,3 @@
-import Head from 'next/head';
 import Footer from '@/components/footer';
 import DrawerAppBar from '@/components/navbar';
 import { CssBaseline } from '@mui/material';
